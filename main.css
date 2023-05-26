@@ -39,7 +39,7 @@ header .content h1 {
   color: #c66a89;
   font-size: 35px;
   font-weight: 900;
-  text-shadow: 2px 2px #784154;  
+  text-shadow: 2px 2px 2px #784154;  
 }
 @media screen and (min-width: 480px) {
   header .content h1 {
@@ -66,7 +66,7 @@ header .content h2 {
   font-size: 50px;
   font-weight: 1337;
   margin: -10px 0px;
-  text-shadow: 2px 2px #784154;
+  text-shadow: 2px 2px 2px #784154;
 }
 @media screen and (min-width: 480px) {
   header .content h2 {
@@ -92,7 +92,7 @@ header .content .countdown {
   color: #c34771;
   font-size: 40px;
   font-weight: 900;
-  text-shadow: 2px 2px #782946;
+  text-shadow: 2px 2px 2px #782946;
 }
 @media screen and (min-width: 480px) {
   header .content .countdown {
