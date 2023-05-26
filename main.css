@@ -41,9 +41,6 @@ header .content h1 {
   font-weight: 900;
   text-shadow: 2px 2px #784154;  
 }
-header .content h1 span {
-  font-weight: 900;
-}
 @media screen and (min-width: 480px) {
   header .content h1 {
     font-size: 40px;
