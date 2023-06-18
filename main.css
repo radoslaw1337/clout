@@ -32,7 +32,7 @@ header:after {
   background-color: rgba(219, 182, 206, 0.8);
 }
 header .content {
-  position: relative;
+  position: absolute;
   z-index: 1;
 }
 header .content h1 {
@@ -114,5 +114,34 @@ header .content .countdown {
     font-size: 120px;
   }
 }
-
-/*# sourceMappingURL=main.css.map */
+header .playlista {
+  position: relative;
+  z-index: 1;
+  margin-top: 700px;
+ }
+header .playlista h3 {
+  color: #c34771;
+  font-size: 30px;
+  font-weight: 900;
+  text-shadow: 2px 2px 1px #782946;  
+}
+@media screen and (min-width: 480px) {
+  header .playlista h3 {
+    font-size: 30px;
+  }
+}
+@media screen and (min-width: 768px) {
+  header .playlista h3 {
+    font-size: 30px;
+  }
+}
+@media screen and (min-width: 1024px) {
+  header .playlista h3 {
+    font-size: 30px;
+  }
+}
+@media screen and (min-width: 1280px) {
+  header .playlista h3 {
+    font-size: 30px;
+  }
+}
