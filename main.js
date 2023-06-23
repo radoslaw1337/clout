@@ -35,5 +35,8 @@ function tick () {
 
     // Set time on document
     document.querySelector('.countdown').innerText = time;
-  }
+
+    } else {
+    document.querySelector('.countdown').innerText = "JUŻ JEST!!!";
 }
+  }

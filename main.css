@@ -29,17 +29,17 @@ header:after {
   right: 0;
   bottom: 0;
   z-index: 0;
-  background-color: rgba(219, 182, 206, 0.8);
+  background-color: rgba(66, 25, 11, 0.8);
 }
 header .content {
   position: absolute;
   z-index: 1;
 }
 header .content h1 {
-  color: #c66a89;
+  color: #db5e4b;
   font-size: 35px;
   font-weight: 900;
-  text-shadow: 2px 2px 2px #784154;  
+  text-shadow: 2px 2px 2px #994235;  
 }
 @media screen and (min-width: 480px) {
   header .content h1 {
@@ -62,11 +62,11 @@ header .content h1 {
   }
 }
 header .content h2 {
-  color: #c66a89;
+  color: #db5e4b;
   font-size: 50px;
   font-weight: 1337;
   margin: -10px 0px;
-  text-shadow: 2px 2px 2px #784154;
+  text-shadow: 2px 2px 2px #994235;
 }
 @media screen and (min-width: 480px) {
   header .content h2 {
@@ -89,10 +89,10 @@ header .content h2 {
   }
 }
 header .content .countdown {
-  color: #c34771;
+  color: #c93324;
   font-size: 40px;
   font-weight: 900;
-  text-shadow: 2px 2px 2px #782946;
+  text-shadow: 2px 2px 2px #8d2419;
 }
 @media screen and (min-width: 480px) {
   header .content .countdown {
@@ -120,10 +120,10 @@ header .playlista {
   margin-top: 700px;
  }
 header .playlista h3 {
-  color: #c34771;
+  color: #c93324;
   font-size: 30px;
   font-weight: 900;
-  text-shadow: 2px 2px 1px #782946;  
+  text-shadow: 2px 2px 1px #8d2419;  
 }
 @media screen and (min-width: 480px) {
   header .playlista h3 {
