@@ -5,7 +5,7 @@
 }
 
 body {
-  font-family: "Lexend Deca";
+  font-family: 'Lexend Deca';
 }
 
 header {
@@ -15,7 +15,7 @@ header {
   align-items: center;
   text-align: center;
   min-height: 100vh;
-  background-image: url("background.png");
+  background-image: url("background.gif");
   background-size: cover;
   background-position: center;
   position: relative;
@@ -29,17 +29,17 @@ header:after {
   right: 0;
   bottom: 0;
   z-index: 0;
-  background-color: rgba(9, 36, 112, 0.918);
+  background-color: rgba(66, 25, 11, 0.8);
 }
 header .content {
   position: absolute;
   z-index: 1;
 }
 header .content h1 {
-  color: #f3f3f3;
+  color: #db5e4b;
   font-size: 35px;
   font-weight: 900;
-  text-shadow: 2px 2px 10px #3d3d3d;
+  text-shadow: 2px 2px 2px #994235;  
 }
 @media screen and (min-width: 480px) {
   header .content h1 {
@@ -62,11 +62,11 @@ header .content h1 {
   }
 }
 header .content h2 {
-  color: #f3f3f3;
+  color: #db5e4b;
   font-size: 50px;
   font-weight: 1337;
   margin: -10px 0px;
-  text-shadow: 2px 2px 10px #3d3d3d;
+  text-shadow: 2px 2px 2px #994235;
 }
 @media screen and (min-width: 480px) {
   header .content h2 {
@@ -89,10 +89,10 @@ header .content h2 {
   }
 }
 header .content .countdown {
-  color: #f3f3f3;
+  color: #c93324;
   font-size: 40px;
   font-weight: 900;
-  text-shadow: 2px 2px 10px #3d3d3d;
+  text-shadow: 2px 2px 2px #8d2419;
 }
 @media screen and (min-width: 480px) {
   header .content .countdown {
@@ -118,12 +118,12 @@ header .playlista {
   position: relative;
   z-index: 1;
   margin-top: 700px;
-}
+ }
 header .playlista h3 {
-  color: #b6b6b6;
+  color: #c93324;
   font-size: 30px;
   font-weight: 900;
-  text-shadow: 2px 2px 4px #363636;
+  text-shadow: 2px 2px 1px #8d2419;  
 }
 @media screen and (min-width: 480px) {
   header .playlista h3 {
