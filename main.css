@@ -29,7 +29,7 @@ header:after {
   right: 0;
   bottom: 0;
   z-index: 0;
-  background-color: rgba(9, 36, 112, 0.918);
+  background-color: rgba(9, 36, 112, 0.9);
 }
 header .content {
   position: absolute;
